@@ -1,2 +1,2 @@
-# filter-feed
-aggregate, filter and alerting from various sources
+# TS NODE Express Boilerplate Light Version
+A light weight boilerplate for a TS-NODE-EXPRESS APP
